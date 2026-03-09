@@ -3,9 +3,9 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
 // Importando com a primeira letra maiúscula (Boa prática)
 import Home from './telas/tela_home';
-import Perfil from './telas/tela_perfil';
-import Sede from './telas/tela_sede';
-import Time from './telas/tela_time';
+import Perfil from './telas/Perfil_usuario/tela_perfil';
+import Sede from './telas/Telas_soceity/Tela_Soceity_Home';
+import Time from './telas/Telas_time/tela_time';
 import Test from './telas/tela_test'; 
 import {Entypo, Feather} from '@expo/vector-icons'
 

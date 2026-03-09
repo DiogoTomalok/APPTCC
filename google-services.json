@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206602945394",
+    "project_id": "devapptcc",
+    "storage_bucket": "devapptcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206602945394:android:1b630bbe96ebc54f7953eb",
+        "android_client_info": {
+          "package_name": "com.diogotomalok.devtcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGj9V9iTGwl7S6HE4FC4ew2jphvlnmgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

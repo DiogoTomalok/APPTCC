@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "src/telas/tela_home.js", "src/telas/Telas_time/tela_time.js", "src/telas/tela_test.js", "src/telas/Telas_soceity/Tela_Soceity_Home.js", "src/telas/Perfil_usuario/tela_perfil.js", "src/telas/tela_home.js", "src/telas/tela_home.js"  ]
 }
